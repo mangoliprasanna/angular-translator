@@ -1,6 +1,6 @@
 # TranslatorApp
 
-![alt text](https://github.com/mangoliprasanna/angular-translator/screen.PNG)
+![Screenshot](https://github.com/mangoliprasanna/angular-translator/blob/master/screen.png)
 
 This is simple angular project for word translation using python in backend.
 
