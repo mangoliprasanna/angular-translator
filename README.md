@@ -1,6 +1,6 @@
 # TranslatorApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+This is simple angular project for word translation using python in backend.
 
 ## Development server
 
